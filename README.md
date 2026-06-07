@@ -92,28 +92,62 @@ class SaiKrishna:
 
 ## 🗂️ Selected Work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Maverick01-code/gaze-tracking-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maverick01-code&repo=gaze-tracking-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-<a href="https://github.com/Maverick01-code/Drone-Crop-Health">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maverick01-code&repo=Drone-Crop-Health&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-<a href="https://github.com/Maverick01-code/Infrastructure-Digital-Twin-with-Optimization-Layer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maverick01-code&repo=Infrastructure-Digital-Twin-with-Optimization-Layer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-<a href="https://github.com/Maverick01-code/CodeAlpha_Object-Detection-and-Tracking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maverick01-code&repo=CodeAlpha_Object-Detection-and-Tracking&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-<a href="https://github.com/Maverick01-code/CodeAlpha_Chatbot-for-FAQs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maverick01-code&repo=CodeAlpha_Chatbot-for-FAQs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-<a href="https://github.com/Maverick01-code/CodeAlpha_Language-Translation-Tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maverick01-code&repo=CodeAlpha_Language-Translation-Tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
+### 👁️ [Gaze Tracking System](https://github.com/Maverick01-code/gaze-tracking-system)
+<sub>`Python` · `OpenCV` · `React`</sub>
 
-</div>
+Real-time eye tracking with session-based attention heatmaps and a mobile-friendly clinician login flow.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 [Drone Crop Health](https://github.com/Maverick01-code/Drone-Crop-Health)
+<sub>`Python` · `Computer Vision`</sub>
+
+Aerial crop monitoring — processes drone imagery to flag stress, disease patterns, and yield indicators for precision agriculture.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ [Infrastructure Digital Twin](https://github.com/Maverick01-code/Infrastructure-Digital-Twin-with-Optimization-Layer)
+<sub>`Python` · `Optimization`</sub>
+
+Digital twin platform with an optimization layer that simulates infrastructure state and recommends improvements.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [Object Detection & Tracking](https://github.com/Maverick01-code/CodeAlpha_Object-Detection-and-Tracking)
+<sub>`Python` · `OpenCV`</sub>
+
+Real-time detection pipeline with multi-object tracking across video streams. Built during CodeAlpha internship.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [FAQ Chatbot](https://github.com/Maverick01-code/CodeAlpha_Chatbot-for-FAQs)
+<sub>`Python` · `NLP`</sub>
+
+Intent-aware FAQ assistant using text similarity and conversational flow.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Language Translation Tool](https://github.com/Maverick01-code/CodeAlpha_Language-Translation-Tool)
+<sub>`Python`</sub>
+
+Multi-language translator with a simple, scriptable interface.
+
+</td>
+</tr>
+</table>
 
 ---
 
