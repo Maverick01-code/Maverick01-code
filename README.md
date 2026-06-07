@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sai%20Krishna%20Sundarrajan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20Machine%20Learning%20%C2%B7%20Builder&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://github.com/Maverick01-code">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Turning+research+into+working+tools.;Cameras%2C+drones%2C+sensors%2C+pixels.;Currently+training+eyes+to+track+yours." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Turning+research+into+working+tools.;Cameras%2C+models%2C+pixels%2C+insight.;Currently+training+eyes+to+track+yours." alt="Typing SVG" />
 </a>
 
 <br/>
