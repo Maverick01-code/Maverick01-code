@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate CV HUD Profile Visualizer
 
 on:
   schedule:
@@ -14,14 +14,21 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Maverick01-code
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Generate CV HUD SVG
+        run: python scripts/generate_hud.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

@@ -162,11 +162,11 @@ Multi-language translator with a simple, scriptable interface.
 
 </div>
 
-### 🐍 Contribution Snake
+### 📷 Computer Vision HUD Contribution Grid
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Maverick01-code/Maverick01-code/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Maverick01-code/Maverick01-code/output/cv-contribution-hud.svg" width="100%" />
 
 </div>
 
